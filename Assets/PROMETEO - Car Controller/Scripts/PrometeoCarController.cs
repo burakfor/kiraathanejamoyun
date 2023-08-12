@@ -352,7 +352,8 @@ public class PrometeoCarController : MonoBehaviour
         if(Input.GetKeyUp(KeyCode.Space)){
           RecoverTraction();
         }
-        if((!Input.GetKey(KeyCode.S) && !Input.GetKey(KeyCode.W))){
+        if((!Input.GetKey(KeyCode.S) && !Input.GetKey(KeyCode.W) && !Input.GetKey(KeyCode.UpArrow)
+                && !Input.GetKey(KeyCode.DownArrow))){
           ThrottleOff();
         }
             if ((!Input.GetKey(KeyCode.S) && !Input.GetKey(KeyCode.W)) && !Input.GetKey(KeyCode.UpArrow) 
