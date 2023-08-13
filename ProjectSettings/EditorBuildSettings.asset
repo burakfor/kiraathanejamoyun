@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SimplePoly - Town Pack/DemoScene/Menu.unity
+    guid: 6b5625ddb8497314ab338c3028b890b3
+  - enabled: 1
+    path: Assets/SimplePoly - Town Pack/DemoScene/Game.unity
+    guid: f678fca87be1b3b4094af07677ed892b
   m_configObjects: {}

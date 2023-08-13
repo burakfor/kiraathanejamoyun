@@ -237,7 +237,10 @@ public class CarController : MonoBehaviour
         }
 
     }
-
+    public float GetCarSpeed()
+    {
+        return carRigidbody.velocity.magnitude;
+    }
     // Update is called once per frame
     void Update()
     {

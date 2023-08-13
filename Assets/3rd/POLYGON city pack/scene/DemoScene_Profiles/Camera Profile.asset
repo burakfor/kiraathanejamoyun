@@ -38,7 +38,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 0.63
+    value: 0.22
   color:
     overrideState: 1
     value: {r: 0, g: 0, b: 0, a: 1}
@@ -56,7 +56,7 @@ MonoBehaviour:
     value: -12
   thicknessModifier:
     overrideState: 1
-    value: 1.31
+    value: 2.12
   directLightingStrength:
     overrideState: 1
     value: 0
@@ -200,10 +200,10 @@ MonoBehaviour:
     value: 1
   temperature:
     overrideState: 1
-    value: -2.92
+    value: 39
   tint:
     overrideState: 1
-    value: -0.96
+    value: 0
   colorFilter:
     overrideState: 1
     value: {r: 1, g: 1, b: 1, a: 1}
@@ -212,13 +212,13 @@ MonoBehaviour:
     value: 0
   saturation:
     overrideState: 1
-    value: 53.77
+    value: 100
   brightness:
     overrideState: 1
     value: 0
   postExposure:
     overrideState: 1
-    value: -1.17
+    value: -0.74
   contrast:
     overrideState: 1
     value: 2.4
